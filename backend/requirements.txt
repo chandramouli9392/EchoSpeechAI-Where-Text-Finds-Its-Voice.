@@ -1,0 +1,6 @@
+fastapi>=0.110.0
+uvicorn>=0.28.0
+pydantic>=2.6.0
+edge-tts>=7.0.0
+python-multipart>=0.0.9
+aiofiles>=23.2.0

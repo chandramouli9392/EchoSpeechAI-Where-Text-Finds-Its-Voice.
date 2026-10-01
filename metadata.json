@@ -1,0 +1,7 @@
+{
+  "name": "Txt2Speecho",
+  "description": "A production-grade Text-to-Speech web application powered by Gemini 2.5 TTS, supporting multilingual synthesis and natural-language voice control.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
